@@ -28,7 +28,7 @@ const Index = () => {
         <header className="text-center mb-12 animate-fade-in">
           <div className="inline-flex items-center gap-2 mb-4">
             <Icon name="Shield" size={40} className="text-primary" />
-            <h1 className="text-4xl md:text-5xl font-bold">SecureVPN</h1>
+            <h1 className="text-4xl md:text-5xl font-bold">CarpetVPN</h1>
           </div>
           <p className="text-muted-foreground text-lg">
             Быстрый и надёжный доступ к интернету без границ
