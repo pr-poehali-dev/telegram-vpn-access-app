@@ -112,11 +112,11 @@ const Index = () => {
                     <div className="flex items-start justify-between mb-2">
                       <div>
                         <h3 className="font-semibold flex items-center gap-2">
-                          Premium VPN
+                          OpenVPN США
                           <Badge variant="default">Рекомендуем</Badge>
                         </h3>
                         <p className="text-sm text-muted-foreground mt-1">
-                          WireGuard протокол, максимальная скорость
+                          OpenVPN протокол, стабильное соединение
                         </p>
                       </div>
                       {selectedConfig === 'premium' && (
@@ -150,9 +150,9 @@ const Index = () => {
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
-                        <h3 className="font-semibold">Standard VPN</h3>
+                        <h3 className="font-semibold">OpenVPN Нидерланды</h3>
                         <p className="text-sm text-muted-foreground mt-1">
-                          OpenVPN протокол, стабильное соединение
+                          OpenVPN протокол, быстрое соединение
                         </p>
                       </div>
                       {selectedConfig === 'standard' && (
