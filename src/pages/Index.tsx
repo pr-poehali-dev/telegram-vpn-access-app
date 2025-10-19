@@ -292,7 +292,7 @@ const Index = () => {
                   <ol className="space-y-2 text-sm ml-7">
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">1.</span>
-                      <span>Скачайте и установите OpenVPN GUI</span>
+                      <span>Скачайте и установите OpenVPN GUI (Tunnelblick для macOS)</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">2.</span>
