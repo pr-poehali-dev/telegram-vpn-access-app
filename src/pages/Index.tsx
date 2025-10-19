@@ -68,7 +68,7 @@ const Index = () => {
                   <div className="flex flex-col items-center text-center p-4 rounded-lg bg-muted/50">
                     <Icon name="Zap" size={32} className="text-primary mb-2" />
                     <h3 className="font-semibold mb-1">Высокая скорость</h3>
-                    <p className="text-sm text-muted-foreground">До 1 Гбит/с</p>
+                    <p className="text-sm text-muted-foreground">Стабильность подключения</p>
                   </div>
                   <div className="flex flex-col items-center text-center p-4 rounded-lg bg-muted/50">
                     <Icon name="Lock" size={32} className="text-primary mb-2" />
