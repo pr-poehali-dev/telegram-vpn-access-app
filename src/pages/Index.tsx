@@ -163,15 +163,15 @@ const Index = () => {
                     <ul className="space-y-2 text-sm">
                       <li className="flex items-center gap-2">
                         <Icon name="Check" size={16} className="text-primary" />
-                        Скорость до 500 Мбит/с
+                        Высокая скорость
                       </li>
                       <li className="flex items-center gap-2">
                         <Icon name="Check" size={16} className="text-primary" />
-                        Неограниченный трафик
+                        Поддержка всех устройств
                       </li>
                       <li className="flex items-center gap-2">
                         <Icon name="Check" size={16} className="text-primary" />
-                        3 одновременных подключения
+                        Без логов и ограничений трафика
                       </li>
                     </ul>
                   </div>
