@@ -265,19 +265,19 @@ const Index = () => {
                   <ol className="space-y-2 text-sm ml-7">
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">1.</span>
-                      <span>Скачайте приложение WireGuard из App Store или Google Play</span>
+                      <span>Скачайте приложение OpenVPN Connect из App Store или Google Play</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">2.</span>
-                      <span>Откройте письмо с конфигурацией на вашей почте</span>
+                      <span>Откройте полученный .ovpn файл</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">3.</span>
-                      <span>Отсканируйте QR-код или импортируйте файл .conf</span>
+                      <span>Импортируйте в OpenVPN Connect</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">4.</span>
-                      <span>Нажмите кнопку "Подключить" в приложении</span>
+                      <span>Нажмите "Подключить", готово!</span>
                     </li>
                   </ol>
                 </div>
