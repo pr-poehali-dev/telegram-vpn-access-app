@@ -152,7 +152,7 @@ const Index = () => {
                       <div>
                         <h3 className="font-semibold">OpenVPN Нидерланды</h3>
                         <p className="text-sm text-muted-foreground mt-1">
-                          OpenVPN протокол, быстрое соединение
+                          OpenVPN протокол, сервер в Амстердаме
                         </p>
                       </div>
                       {selectedConfig === 'standard' && (
