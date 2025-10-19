@@ -116,7 +116,7 @@ const Index = () => {
                           <Badge variant="default">Рекомендуем</Badge>
                         </h3>
                         <p className="text-sm text-muted-foreground mt-1">
-                          OpenVPN протокол, стабильное соединение
+                          OpenVPN протокол, сервер в США
                         </p>
                       </div>
                       {selectedConfig === 'premium' && (
