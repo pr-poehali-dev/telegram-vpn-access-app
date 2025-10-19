@@ -77,8 +77,8 @@ const Index = () => {
                   </div>
                   <div className="flex flex-col items-center text-center p-4 rounded-lg bg-muted/50">
                     <Icon name="Globe" size={32} className="text-primary mb-2" />
-                    <h3 className="font-semibold mb-1">50+ стран</h3>
-                    <p className="text-sm text-muted-foreground">Серверы по всему миру</p>
+                    <h3 className="font-semibold mb-1">США и Нидерланды</h3>
+                    <p className="text-sm text-muted-foreground">Быстрые серверы</p>
                   </div>
                 </div>
               </CardContent>
