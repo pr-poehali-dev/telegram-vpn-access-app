@@ -321,10 +321,6 @@ const Index = () => {
                   </p>
                   <div className="flex gap-2">
                     <Button variant="outline" size="sm" className="flex-1">
-                      <Icon name="Mail" size={16} className="mr-2" />
-                      Email
-                    </Button>
-                    <Button variant="outline" size="sm" className="flex-1">
                       <Icon name="MessageCircle" size={16} className="mr-2" />
                       Telegram
                     </Button>
