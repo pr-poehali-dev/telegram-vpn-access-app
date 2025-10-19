@@ -111,9 +111,8 @@ const Index = () => {
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
-                        <h3 className="font-semibold flex items-center gap-2">
+                        <h3 className="font-semibold">
                           OpenVPN США
-                          <Badge variant="default">Рекомендуем</Badge>
                         </h3>
                         <p className="text-sm text-muted-foreground mt-1">
                           OpenVPN протокол, сервер в США
