@@ -31,7 +31,7 @@ const Index = () => {
             <h1 className="text-4xl md:text-5xl font-bold">CarpetVPN</h1>
           </div>
           <p className="text-muted-foreground text-lg">
-            Быстрый и надёжный доступ к интернету без границ
+            Твой персональный пропуск в свободный интернет!
           </p>
         </header>
 
