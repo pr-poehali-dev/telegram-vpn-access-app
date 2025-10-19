@@ -292,19 +292,19 @@ const Index = () => {
                   <ol className="space-y-2 text-sm ml-7">
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">1.</span>
-                      <span>Скачайте клиент WireGuard с официального сайта</span>
+                      <span>Скачайте и установите OpenVPN GUI</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">2.</span>
-                      <span>Установите и запустите программу</span>
+                      <span>Поместите свой .ovpn файл в любую удобную папку</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">3.</span>
-                      <span>Нажмите "Import tunnel(s) from file" и выберите файл .conf</span>
+                      <span>Кликните правой кнопкой на значок OpenVPN → Import file</span>
                     </li>
                     <li className="flex gap-2">
                       <span className="font-semibold min-w-[20px]">4.</span>
-                      <span>Активируйте туннель переключателем</span>
+                      <span>Нажмите "Connect", готово!</span>
                     </li>
                   </ol>
                 </div>
