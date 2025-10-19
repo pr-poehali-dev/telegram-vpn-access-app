@@ -60,7 +60,7 @@ const Index = () => {
               <CardHeader>
                 <CardTitle>Защитите свои данные</CardTitle>
                 <CardDescription>
-                  Премиальный VPN-сервис с высокой скоростью и надёжной защитой
+                  Дешевый и стабильный VPN с высокой скоростью и надежной защитой
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-4">
