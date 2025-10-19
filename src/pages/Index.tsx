@@ -26,7 +26,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-b from-background to-muted/30">
       <div className="container max-w-4xl mx-auto px-4 py-8">
         <header className="text-center mb-12 animate-fade-in">
-          <div className="inline-flex items-center gap-2 mb-4">
+          <div className="inline-flex items-center gap-2 mb-6">
             <Icon name="Shield" size={40} className="text-primary" />
             <h1 className="text-4xl md:text-5xl font-bold">CarpetVPN</h1>
           </div>
