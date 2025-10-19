@@ -198,7 +198,7 @@ const Index = () => {
                   <div className="flex justify-between items-center mb-2">
                     <span className="text-sm text-muted-foreground">Конфигурация:</span>
                     <span className="font-semibold">
-                      {selectedConfig === 'premium' ? 'Premium VPN' : 'Standard VPN'}
+                      {selectedConfig === 'premium' ? 'OpenVPN США' : 'OpenVPN Нидерланды'}
                     </span>
                   </div>
                   <div className="flex justify-between items-center mb-2">
