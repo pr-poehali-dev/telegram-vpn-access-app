@@ -287,7 +287,7 @@ const Index = () => {
                 <div>
                   <h3 className="font-semibold mb-3 flex items-center gap-2">
                     <Icon name="Monitor" size={20} className="text-primary" />
-                    Windows / macOS / Linux
+                    Windows, macOS
                   </h3>
                   <ol className="space-y-2 text-sm ml-7">
                     <li className="flex gap-2">
